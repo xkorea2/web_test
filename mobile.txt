@@ -2,3 +2,4 @@ mobile
 samsung
 iphone
 lg
+010
