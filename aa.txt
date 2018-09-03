@@ -5,3 +5,8 @@ ground
 restore
 repository merge
 333
+<<<<<<< Updated upstream
+
+=======
+stash test
+>>>>>>> Stashed changes
