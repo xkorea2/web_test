@@ -6,7 +6,11 @@ restore
 repository merge
 333
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+stash test
+>>>>>>> Stashed changes
 =======
 stash test
 >>>>>>> Stashed changes
